@@ -1,1 +1,1 @@
-TinDog Starting Files
+Modern, responsive web page
